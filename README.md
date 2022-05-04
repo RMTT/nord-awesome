@@ -19,6 +19,7 @@ A simple nord theme for awesomewm for my daily and work use.
 + scrot: get scren capture quickly
 + i3lock-fancy: lock screen
 + xautolock: auto lock screen
++ dex: run desktop file
 
 ### Fonts
 + Digital Font: for text clock
