@@ -23,3 +23,12 @@ A simple nord theme for awesomewm for my daily and work use.
 
 ### Fonts
 + Digital Font: for text clock
+
+## Better experience
+
+### Qt
++ Kvantum
++ [Kvantum nord](https://store.kde.org/p/1533594)
+
+### GTK
++ [GTK nord](https://www.pling.com/p/1533617/)
