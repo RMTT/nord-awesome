@@ -9,7 +9,7 @@ local commands = {
     "setxkbmap -option caps:escape",
     "blueman-applet",
     "picom --experimental-backends",
-    "xautolock -time 1 -locker 'i3lock-fancy -np -- scrot -z -o' -detectsleep"
+    "xautolock -time 15 -locker 'i3lock-fancy -np -- scrot -z -o' -detectsleep"
 }
 
 autostart.run(desktop, commands)
